@@ -8,11 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <Compile Remove=".gitHub\**" />
+    <Content Remove=".gitHub\**" />
+    <EmbeddedResource Remove=".gitHub\**" />
+    <None Remove=".gitHub\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include=".gitHub\workflows\docker-deploy.yml" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
 </Project>

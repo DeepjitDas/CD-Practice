@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD Practice", "CD Practice\CD Practice.csproj", "{0D33F5CC-7C77-4D08-AF8A-6A8F5E54D762}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD_Practice", "CD Practice\CD_Practice.csproj", "{0D33F5CC-7C77-4D08-AF8A-6A8F5E54D762}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
